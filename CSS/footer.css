@@ -1,0 +1,16 @@
+.footer
+
+{
+    background-color: rgb(214, 214, 164);
+    height: 15vh;
+    width: 100%;
+    padding: 1rem;
+    color: white;
+ text-align: center;
+}
+.button{
+ height: 50px;
+ width: 100px;
+ border: 2px solid blue;
+ color: blue;
+}

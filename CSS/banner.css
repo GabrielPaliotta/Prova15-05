@@ -1,0 +1,22 @@
+.banner{
+    height: 90vh;
+    width: 100%;
+
+}
+.banner img{
+    height: 100%;
+    width: 100%;
+}
+   .buttonimg{
+       color: white;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(70, 66, 66);
+   }
+   .texto{
+       font-size: 2rem;
+       height: 50px;
+    margin: auto;
+    text-align: center;
+width: 500px;
+   }
